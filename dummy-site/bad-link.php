@@ -1,3 +1,3 @@
 <?
 usleep(20000);
-header("Location: http://localhost/grinder-web/dummy-site/404.php");
+header("Location: http://grinder.espenhh.com/dummy-site/404.php");
